@@ -9,7 +9,7 @@ func main() {
 	var a, b, c, disc, x1, x2, p, q float64
 	var cpx1, cpx2 complex128
 	fmt.Println("请输入三个系数：")
-	fmt.Scanf("%f, %f, %f", &a, &b, &c)
+	fmt.Scanf("%f, %f, %f\n", &a, &b, &c)
 	if a == 0 {
 		fmt.Printf("系数a为0，不是一元二次方程。\n")
 	} else {

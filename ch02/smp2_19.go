@@ -42,12 +42,12 @@ func main() {
 	fmt.Println("字节遍历：")
 	for i := 0; i < len(str2); i++ {
 		ch := str2[i]
-		fmt.Printf("str2[%d]=%v\n", i, ch)
+		fmt.Printf("str2[%d]=%v - %T\n", i, ch, ch)
 	}
 	fmt.Println()
 
 	fmt.Println("字符遍历：")
 	for i, ch := range str2 {
-		fmt.Printf("str2[%d]=%v\n", i, ch)
+		fmt.Printf("str2[%d]=%v - %T\n", i, ch, ch)
 	}
 }

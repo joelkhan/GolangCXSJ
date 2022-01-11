@@ -1,0 +1,10 @@
+[244364.395552] raid6: using algorithm avx2x4 gen() 15985 MB/s
+[244364.395555] raid6: .... xor() 8411 MB/s, rmw enabled
+[244364.395557] raid6: using avx2x2 recovery algorithm
+[244364.398686] xor: automatically using best checksumming function   avx       
+[244364.475015] Btrfs loaded, crc32c=crc32c-intel, zoned=yes
+[261512.754461] 23:36:40.221399 timesync vgsvcTimeSyncWorker: Radical host time change: 45 207 746 000 000ns (HostNow=1 641 425 800 221 000 000 ns HostLast=1 641 380 592 475 000 000 ns)
+[261522.783207] 23:36:50.255861 timesync vgsvcTimeSyncWorker: Radical guest time change: 45 207 741 943 000ns (GuestNow=1 641 425 810 255 813 000 ns GuestLast=1 641 380 602 513 870 000 ns fSetTimeLastLoop=true )
+[471038.134243] 01:31:43.668841 timesync vgsvcTimeSyncWorker: Radical host time change: 142 990 914 000 000ns (HostNow=1 641 778 303 668 000 000 ns HostLast=1 641 635 312 754 000 000 ns)
+[471048.136959] 01:31:53.670854 timesync vgsvcTimeSyncWorker: Radical guest time change: 142 990 819 418 000ns (GuestNow=1 641 778 313 670 820 000 ns GuestLast=1 641 635 322 851 402 000 ns fSetTimeLastLoop=true )
+
